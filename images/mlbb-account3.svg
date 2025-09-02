@@ -1,0 +1,17 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#1a3045" />
+  
+  <!-- Game Logo Diamond -->
+  <polygon points="200,50 260,120 200,190 140,120" fill="#00a8ff" />
+  
+  <!-- Star in Center -->
+  <polygon points="200,100 210,120 235,120 215,135 225,160 200,145 175,160 185,135 165,120 190,120" fill="#ffcc00" />
+  
+  <!-- Decorative Lines -->
+  <line x1="100" y1="220" x2="300" y2="220" stroke="#ffffff" stroke-width="3" />
+  <line x1="120" y1="240" x2="280" y2="240" stroke="#ffffff" stroke-width="3" />
+  
+  <!-- Account Text -->
+  <text x="200" y="270" font-family="Arial" font-size="24" fill="#ffffff" text-anchor="middle">Mythic Account</text>
+</svg>

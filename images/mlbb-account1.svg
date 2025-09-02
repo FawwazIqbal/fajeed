@@ -1,0 +1,17 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#2a3b4c" />
+  
+  <!-- Game Logo Circle -->
+  <circle cx="200" cy="120" r="70" fill="#4a6fa5" />
+  
+  <!-- Stylized M for MLBB -->
+  <path d="M150 90 L170 150 L200 100 L230 150 L250 90" stroke="#ffffff" stroke-width="8" fill="none" />
+  
+  <!-- Stars -->
+  <polygon points="160,180 167,195 185,195 170,205 177,220 160,210 143,220 150,205 135,195 153,195" fill="#ffcc00" />
+  <polygon points="240,180 247,195 265,195 250,205 257,220 240,210 223,220 230,205 215,195 233,195" fill="#ffcc00" />
+  
+  <!-- Account Text -->
+  <text x="200" y="260" font-family="Arial" font-size="24" fill="#ffffff" text-anchor="middle">Epic Account</text>
+</svg>
